@@ -70,6 +70,4 @@ Accomplished **Data Leader** with a proven track record in **Data Integration, M
 
 ## ** Let's Connect!**
 
-🚀 **Passionate about leveraging data for business transformation** and open to networking opportunities. Let’s discuss how we can collaborate on innovative solutions!
-
 🔗 [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/gaurav-tungare-2393051a/)) 
