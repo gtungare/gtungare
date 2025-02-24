@@ -1,6 +1,6 @@
-# ** Data Leader | Data Platform | Data Engineering | AI-Driven Analytics Expert**
+# ** Data Leader | Data Platform | Data Engineering | Architecture & Analytics | AI-Driven Analytics Expert**
 
-**🔹 20+ years in Data Strategy, Data Engineering , Data Platform,  Cloud Architecture & AI-Driven Solutions**
+**🔹 20+ years in Data Strategy, Data Engineering , Data Platform, Architecture & Analytics,  Cloud Architecture & AI-Driven Solutions**
 
 Accomplished **Data Leader** with a proven track record in **Data Integration, Migration, People Analytics, and Machine Learning**. Passionate about transforming data into actionable insights, optimizing cloud infrastructure, and driving digital transformation. Adept at leading high-performing teams and fostering an **analytics-driven culture**.
 
