@@ -70,4 +70,4 @@ Accomplished **Data Leader** with a proven track record in **Data Integration, M
 
 ## ** Let's Connect!**
 
-🔗 [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/gaurav-tungare-2393051a/)) 
+🔗 [LinkedIn Profile]([[https://www.linkedin.com/in/gaurav-tungare-2393051a/]])
