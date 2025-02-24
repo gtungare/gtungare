@@ -24,8 +24,8 @@ Accomplished **Data Leader** with a proven track record in **Data Integration, M
 - **Data Tools**: Spark, DBT, Snowflake, Databricks, TensorFlow, Hive, HDFS
 - **Cloud Services**: AWS (EC2, S3, RDS), GCP (BigQuery, GKE, Cloud Functions)
 - **Integration & APIs**: APIGEE, Kafka, REST APIs, Batch Processing
-- **Visualization**: Power BI, Tableau, Matplotlib, ggplot2
-- **DevOps & CI/CD**: Jenkins, Terraform, Kubernetes
+- **Visualization**: Power BI, Tableau, Matplotlib, ggplot2 , Domo , Sigma
+- **DevOps & CI/CD**: Jenkins, Terraform, Kubernetes , Git Actions
 
 ---
 
