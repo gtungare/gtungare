@@ -1,4 +1,4 @@
-# ** Data Leader | Data Platform | Data Engineering | Architecture & Analytics | AI-Driven Analytics Expert**
+#  Data Leader | Data Platform | Data Engineering | Architecture & Analytics | AI-Driven Analytics Expert
 
 **🔹 20+ years in Data Strategy, Data Engineering , Data Platform, Architecture & Analytics,  Cloud Architecture & AI-Driven Solutions**
 
