@@ -2,7 +2,7 @@
 
 **🔹 20+ years in Data Strategy, Data Engineering , Data Platform, Architecture & Analytics,  Cloud Architecture & AI-Driven Solutions**
 
-Accomplished **Data Leader** with a proven track record in **Data Integration, Migration, People Analytics, and Machine Learning**. Passionate about transforming data into actionable insights, optimizing cloud infrastructure, and driving digital transformation. Adept at leading high-performing teams and fostering an **analytics-driven culture**.
+Accomplished **Data Leader** with a proven track record in **Data Integration, Migration, Data Engineering, and Machine Learning**. Passionate about transforming data into actionable insights, optimizing cloud infrastructure, and driving digital transformation. Adept at leading high-performing teams and fostering an **analytics-driven culture**.
 
 ---
 
