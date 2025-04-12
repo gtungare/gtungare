@@ -9,9 +9,11 @@ Accomplished **Data Leader** with a proven track record in **Data Integration, M
 ## ** Core Competencies**
 
 - **Solution Architecture**: High- & Low-Level Design, API Integration, Distributed Systems
-- **Cloud Platforms**: AWS, GCP, Kubernetes (GKE), Snowflake, DBT, HashiCorp Vault
+- **Cloud Platforms**: AWS, GCP, Kubernetes (GKE), Snowflake, DBT, HashiCorp Vault,Starburst, Trino
 - **Data Engineering**: Python, Spark, Data Virtualization, Big Data (Hive, HDFS)
 - **Consumer Analytics**: Digital Product Development, Media Analytics, FinOps Optimization
+- **Data Governance & Observability**: Monte Carlo, DQ Labs, Alation
+- **Data Mesh Architecture** | Data Contracts | Domain-Driven Design
 - **Integration Patterns**: Batch Processing, Real-time APIs, Headless Architecture
 - **Content & Commerce Platforms**: Sitecore, Salesforce Commerce Cloud, APIGEE
 - **Technical Leadership**: SaaS Contract Management, Cross-Functional Team Guidance
